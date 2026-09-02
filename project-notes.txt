@@ -1,0 +1,5 @@
+Customer Service      :8081
+Account Service       :8082
+Loan Service          :8083
+Transaction Service   :8084
+keyclock : http://localhost:8085/

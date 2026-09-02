@@ -1,0 +1,29 @@
+BANKING TRANSACTIONS
+
+Deposits
+
+A deposit adds money to the customer's bank account. The account balance is updated after a successful transaction.
+
+Withdrawals
+
+A withdrawal removes money from the customer's bank account. The transaction is completed only when the bank successfully processes the request.
+
+Transaction Status
+
+A transaction may have statuses such as COMPLETED, PENDING, or FAILED.
+
+Completed Transaction
+
+A COMPLETED transaction has been successfully processed by the banking system.
+
+Pending Transaction
+
+A PENDING transaction is still being processed. Customers should wait for the transaction to be completed or contact the bank if the transaction remains pending for an extended period.
+
+Failed Transaction
+
+A FAILED transaction was not successfully processed. Customers should check the transaction details and contact the bank if required.
+
+Transaction History
+
+Customers can review their transaction history through the banking application or internet banking.
